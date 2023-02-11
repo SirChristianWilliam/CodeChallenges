@@ -4,7 +4,7 @@ import JavaScript from '../JavaScript/JavaScript';
 function App() {
   return (
     <div className="App">
-      <h1>The Movies Saga!</h1>
+      <h1>Code Challenges</h1>
       <Router>        
        <JavaScript/>
       </Router>
