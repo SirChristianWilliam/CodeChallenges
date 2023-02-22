@@ -28,3 +28,4 @@ var twoSum = function(nums, target) {
 
 let results = twoSum(nums,target);
 console.log(results, "Are the results answers");
+
