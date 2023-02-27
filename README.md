@@ -1,9 +1,9 @@
 # Project Name
-
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
+LEETCODE CHALLENGES (easies)
 
 ## Description
 
-Your project description goes here. What problem did you solve? How did you solve it?
+This repository is just to show the exposure I've had with different algorithms. I typically will demonstrate my "forced" version, aka the version I did to pass the test cases in the most direct way I can think of. 
 
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+Then I provide the refactored, more efficient way, which I find by googling methods and looking up any questions I have about the problem specifically.
+ 
